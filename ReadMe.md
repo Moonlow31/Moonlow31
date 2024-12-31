@@ -1,5 +1,5 @@
 # 💫 About Me:
-Après plusieurs années dans le milieu de l'industrie aéronautique,<br>je me suis lancé dans une reconversion professionnel<br>afin de devenir Développeur Web.<br><br>Je suis actuellement en formation à la Wild Code School,<br>et je cherche une alternance de 15 mois à partir de septembre pour<br>consolider mes acquis et gagner de nouvelles compétences.
+Après plusieurs années dans le milieu de l'industrie aéronautique,<br>je me suis lancé dans une reconversion professionnel<br>afin de devenir Développeur Web.
 
 
 ## 🌐 Socials:
